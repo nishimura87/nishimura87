@@ -15,3 +15,13 @@
     <img height="20" src="https://badgen.org/img/zenn/nishimura87/articles?style=plastic" />
   </a> -->
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishimura87&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishimura87&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishimura87&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishimura87&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishimura87&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=nishimura87&theme=gruvbox)
