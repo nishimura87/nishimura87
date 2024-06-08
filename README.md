@@ -8,10 +8,10 @@
   <a href="http://qiita.com/nishimura87">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nishimura87/posts.svg" />
   </a>
-  <a href="http://qiita.com/nishimura87">
+<!--   <a href="http://qiita.com/nishimura87">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nishimura87/contributions.svg" />
   </a>
   <a href="https://zenn.dev/nishimura87">
     <img height="20" src="https://badgen.org/img/zenn/nishimura87/articles?style=plastic" />
-  </a>
+  </a> -->
 </p>
