@@ -20,6 +20,8 @@
 
 <h1>Hi 👋,there</h1>
 
+![](https://raw.githubusercontent.com/nishimura87/nishimura87/output/github-contribution-grid-snake.svg)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishimura87&theme=2077)
   
 ## Stats
