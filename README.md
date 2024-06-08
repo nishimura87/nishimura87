@@ -17,11 +17,9 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishimura87&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishimura87&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishimura87&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishimura87&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishimura87&theme=tokyonight&utcOffset=9)
+![nishimura87's Stats](https://github-readme-stats.vercel.app/api?username=nishimura87&theme=bear&show_icons=true&hide_border=true&count_private=true)
+![nishimura87's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishimura87&theme=bear&hide_border=true)
+![nishimura87's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishimura87&theme=bear&show_icons=true&hide_border=true&layout=compact)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=nishimura87&theme=tokyonight)
